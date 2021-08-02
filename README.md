@@ -4,7 +4,7 @@
 
 I created this repo to share with you my studies of Python programming language! :snake:
 
-Most of the descriptions of the exercises written are in the Brazilian Portuguese language, but the code is all written with English variables! 
+Most of the descriptions of the exercises written are in the Brazilian Portuguese language! 
 
 :notebook: Feel free to use it in your studies! :notebook:
 
@@ -12,7 +12,7 @@ Most of the descriptions of the exercises written are in the Brazilian Portugues
 
 Join me on this new travel!
 
-Commander Cris over and out. :wave:
+Commander Crispy over and out. :wave:
 
 
 
